@@ -1,0 +1,20 @@
+{
+  "name": "zxc.ru",
+  "version": "1.0.0",
+  "description": "1) start - ��������� �������� .\r 2) tabs- ������ ����� � ������ .\r 3) catalog- ������ ����� , ������� ������ .\r 4) timetable -��������� ����� , ����������� ������� .\r 5) telegram - ����� ����� , ���������� �������� .\r 6) progress - ������ ����� , ������������ ��������� .\r 7) statistics - ������� ����� , ���������� ������ .\r 8) virtual - ������� ����� , ����������� ����� .\r 9) calendar - ������� ����� , ��������� ������������� . \r 10) reviews - ������� ����� ,  ��� ������� ������������ .\r 11) contacts - ������������ ����� , ��������� ����� .",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FLS",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
