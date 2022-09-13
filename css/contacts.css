@@ -263,8 +263,6 @@ color: #353535;
 	max-width: 354px;
 	max-height: 50px;
 	padding-top: 6px;
-
-
 	font-weight: 300;
 	font-size: 12px;
 	line-height: 15px;
@@ -280,15 +278,18 @@ color: #353535;
 	max-height: 146px;
 	background: #4B7DBE;
 	flex-shrink: 0;
-	justify-content: space-between;
+	justify-content: center;
+
 }
 .contacts-wrapper-logo{
-	padding: 49px 0 49px 200px;
+	display: flex;
+	padding: 49px ;
 	max-width: 206px;
 	max-height: 48px;
 }
 .contacts-wrapper-contacts{
-	padding: 40px 198px 83px;
+	padding-top: 40px;
+	padding-left: 600px; 
 	max-width: 220px;
 	max-height: 23px;
 	font-weight: 400;
